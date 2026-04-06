@@ -1,12 +1,4 @@
-<div style="display: flex;  align-items: center;">
-
-<img src="./img/Retrato moderno em ambiente corporativo.png" alt="Foto de Juan" style="width: 150px; margin-rigth: 150px;">
-
-<div style="display: flex; padding: 40px;">
-<h2>Juan Almeida</h2>
-</div>
-</div><br>
-
+## 👾 Juan Almeida
 
 
 **`Desenvolvedor FullStack`**
